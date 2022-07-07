@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'learninghub1241'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B9363E87144248329EA0B70204B61220 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_63CEB76C4C474408A6F6C4D9F34991EF }}
           package: .
